@@ -1,16 +1,13 @@
-## Hi there 👋
+# o/
 
-<!--
-**Heycan59/Heycan59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### 我寫的Discord機器人，歡迎使用</br>[[https://discord.com/application-directory/1126517167966396436]</br></br>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```py
+print("罐頭Hey_Can")
+```
+</br></br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heycan59&theme=dark)](https://github.com/Heycan59)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heycan59&layout=compact)](https://github.com/Heycan59)<br><br>

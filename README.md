@@ -5,7 +5,7 @@
 ---
 
 ```py
-print("罐頭Hey_Can")
+print("版權所有 © 2021 - 2024 ∙ Red night moon Team")
 ```
 </br>
 

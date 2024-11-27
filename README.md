@@ -1,6 +1,6 @@
 # hi
 
-##### 我寫的Discord機器人，歡迎使用</br>[[https://discord.com/application-directory/1126517167966396436]</br></br>
+##### 我寫的Discord機器人，歡迎使用</br>[https://discord.com/application-directory/1126517167966396436]</br>
 
 ---
 

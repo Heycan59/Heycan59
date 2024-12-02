@@ -11,4 +11,10 @@ print("版權所有 © 2021 - 2024 ∙ Red night moon Team")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heycan59&layout=compact&theme=dark)<br>
 ![Top Langs1](https://github-readme-stats-xx74.vercel.app/api/top-langs/?username=Heycan59&theme=dark&langs_count=8)<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Heycan59&theme=dark)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Heycan59&show_icons=true&theme=dark)<br>
+
+### 程式語言:
+
+<a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
